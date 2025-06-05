@@ -115,7 +115,5 @@ Aplique um cupom válido
 
 Finalize a compra informando um CEP válido
 
-Verifique o e-mail enviado
-
 Envie um webhook de cancelamento para testar
 
